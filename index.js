@@ -7,7 +7,7 @@ app.use(cors());
 app.use(express.json());
 
 const codigos = {
-  "ABC123": "Parabéns! Você desbloqueou a Mensagem 1.",
+  "ABC123": "Tudo certo",
   "DEF456": "Ótimo! Aqui está a Mensagem 2.",
   "XYZ789": "Sucesso! Mensagem secreta 3 revelada.",
 };
