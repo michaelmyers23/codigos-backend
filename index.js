@@ -10,6 +10,7 @@ const codigos = {
   "ABC123": "Tudo certo",
   "DEF456": "Ótimo! Aqui está a Mensagem 2.",
   "XYZ789": "Sucesso! Mensagem secreta 3 revelada.",
+  "Azerbaijão": "Ainda assim funciona.",
 };
 
 app.post('/verificar', (req, res) => {
