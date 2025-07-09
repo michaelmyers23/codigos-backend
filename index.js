@@ -8,9 +8,9 @@ app.use(express.json());
 
 const codigos = {
   "ABC123": "Tudo certo",
-  "DEF456": "Ótimo! Aqui está a Mensagem 2.",
+  "DEF456": "Ótimo! Aqui está a Mensagem 2.<br>Quebrou a linha",
   "XYZ789": "Sucesso! Mensagem secreta 3 revelada.",
-  "Azerbaijão": "Ainda assim funciona.",
+  "Azerbaijão": "Ainda assim funciona.<br> Quebrou a linha",
 };
 
 app.post('/verificar', (req, res) => {
