@@ -9,7 +9,7 @@ app.use(express.json());
 // Mensagens organizadas por turma e código
 const codigos = {
   turmaA: {
-    "ABC123": { mensagem: "Tudo certo, mas diferente para turma A" },
+    "ABC123": { mensagem: "Ο καθηγητής Γκάμπριελ είναι πολύ καλός." },
     "DEF456": { 
       mensagem: `Ótimo! Aqui está a Mensagem 2 para turma A.<br>Quebrou a linha<br><img src="https://gru.ifsp.edu.br/images/phocagallery/galeria2/thumbs/phoca_thumb_l_image03_grd.png" alt="Imagem" style="max-width:100%;">`
     },
