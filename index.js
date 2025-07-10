@@ -48,18 +48,55 @@ const codigos = {
    "Placa de publicidade": { mensagem: "Entre risos que ecoam como sinos de vento, <br>E onde o chão guarda marcas de aventuras em movimento, <br>Há um reino sem tronos, mas com escaladas, <br>E soldados de areia em guerras encantadas. <br>Os adultos passam, mas poucos entendem, <br>Que ali o tempo para e os sonhos se estendem. <br>Se procuras o próximo passo com alegria e cor, <br>Siga onde balanços embalam o riso e o amor." },
   },
   Laranja: {
-    "ABC123": { mensagem: "1" },
-    "DEF456": {
-      mensagem: `2<img src="https://gru.ifsp.edu.br/images/phocagallery/galeria2/thumbs/phoca_thumb_l_image03_grd.png" alt="Imagem" style="max-width:100%;">`
+    "Laranja": { mensagem: "હું ન કોઈ પડદો પહેરું છું, ન હાથમાં તલવાર, <br> પણ રાષ્ટ્રની વ્યવસ્થા અને સુરક્ષા જાળવું છું. <br> શહેરની આંખોમાં, ચોખ્ખાઈથી નિરીક્ષણ કરું છું, <br> શાંત, મજબૂત, કાર્ય માટે તૈયાર. <br>હું કોઈ પૌરાણિક નાયક કે કથા નો નાયક નથી, <br> પણ મારી વિના, અવ્યવસ્થા તાત્કાલિક થઈ જાવતી. <br>હું કોણ છું, જે રસ્તા અને મેદાનમાં ખડું છું, <br>અહીં રહેતા લોકોની રક્ષા કરું છું?" },
+    "Guarda Municipal": {
+      mensagem: `In hac tabula quae hic stat ad loquendum,<br>
+Arcanas fabulas invenies legendum.<br>
+Vicinitas est quae lutum sibi propositum fecit,<br>
+Terram in artem et passionem vertit.<br>
+Manus quae formant tempore ac cura,<br>
+Creant ea quae ignis signat dura.<br>
+Vici servantes traditionem et dignitatem,<br>
+Ubi praeteritum cum amore miscetur.<br>
+Si omnia haec legendo scire vis,<br>
+Quae vicinitas haec tabula vocare vis?
+`
     },
-    "XYZ789": { mensagem: "3" },
-    "pipipi": { mensagem: "4" },
-    "papapa": { mensagem: "5" },
-    "popopo": { mensagem: "6" },
-    "pupupu": { mensagem: "7" },
-    "pepepe": { mensagem: "8" },
-    "cracra": { mensagem: "9" },
-    "sabão": { mensagem: "10" }
+    "História de Olarias": { mensagem: "ⵓⵔ ⴷ-ⵖⵉⵔⵉ ⴰⵙⴻⴳⴳⴰⵙ، ⵎⴰⴽⴰ ⴰⴷ ⴰⵙ-ⵢⴻⵙⵏⵓⴼ، <br>
+ⴰⵢⴻⵏ ⵏ ⴰⵎⴰⵏ ⵉ-ⵢⴻⵔⵔⴰⵏ ⴷ-ⴰⵡⴰⵍ ⴷⴻⴳ ⵓⵙⴰⴳⵡⴻⵏ.<br>
+ⴷ ⴷⵉⴷ-ⴰⵡⵉⵏ، ⴷⴷⵓⵏⵉⵜ ⵢⴻⵜⵜⵡⴰⵙⴻⴼ، <br>
+ⴰⵙⵉⵔⴻⵎ ⴷ ⴰⵎⴻⵏⵏⵓ، ⵙ-ⵡⴰⵍ ⴰⴷ ⵢⴻⵡⵡⵉ.<br>
+ⵏⴻⵖ ⴰⵡⵔⴰⵖ ⴷ ⴰⴼⵓⵙ، ⵜⵉⴳⴷⴰⵡⵉⵏ ⴷ ⵉⴳⴻⵎ، <br>
+ⴰⵏⵡⴰ ⴷ-ⵏⴻⵖ ⵉⵙⵙⵏⴻⴹⴽⴻⵍ ⴰⵙⴻⵎⵎⴰⵎ ⴰⴽⴻⴷ ⵍⵃⵓⴱ؟" },
+    "Quadro do lago": { mensagem: "ฉันแบกท้องฟ้าไว้ในสายของฉัน และสันติภาพไว้ในคู่ของฉัน  <br> ฉันคือความเงียบสงัดที่โบยบินและเป็นเครื่องเตือนใจถึงแท่นบูชา <br> ฉันแบกดวงดาวจากยุคจักรวรรดิ <br> ท่ามกลางทุ่งนาและเมล็ดพืช สัญญาณของฉันเป็นจริง <br> ปราศจากคำพูด ฉันบอกเล่าตำนาน ความจงรักภักดี และราชวงศ์ <br> ฉันคือใคร ผู้ซึ่งสั่นสะท้านด้วยพลังแห่งธรรมชาติ? " },
+    "Bandeira": { mensagem: "ຈາກກ້າງສູງຂ້າມເບິ່ງໂລກໂດຍບໍ່ຂຍື້ນຕົວ, <br> ເປີດເຫັນຂອບເຂດທີ່ບາງຄົນເຫັນບໍ່ໄດ້.  <br> ຂ້ອຍແມ່ນຈຸດຕິດຕາມສະຫນາມ, ຜູ້ຮັບຜິດຊອບການເບິ່ງເຫັນ, <br> ລະຫວ່າງຟ້າແລະດິນ, ຂ້ອຍເຊີນໃຫ້ຝັນ.  <br> ບໍ່ມີປີກ, ຂ້ອຍບິນ; ບໍ່ມີຂາ, ຂ້ອຍເດີນ, <br> ໃຜຄືຂ້ອຍ ຜູ້ທີ່ສະແດງໃຫ້ເຫັນຄວາມບໍ່ມີຂອບເຂດ ຢ່າງໂດດຫວ່າງ?" },
+    "Mirante": { mensagem: `Χωρίς στέγη με σκεπάζω, μα τ’ άστρα με κοιτούν,<br>
+Η φωνή μου αντηχεί όπου οι άνεμοι περνούν.<br>
+Είμαι πέτρα, είμαι χορτάρι, είμαι ήχος που απλώνεται,<br>
+Στη μέση του πουθενά, η τέχνη δεν σωπαίνει.<br>
+Χωρίς κουρτίνες ή τοίχους να με περιορίζουν,<br>
+Είμαι σκηνή της ζωής, του γέλιου και της γνώσης.<br>
+Ποιος είμαι εγώ, που σχηματίστηκα στη γη και στον χώρο,<br>
+Όπου ο ουρανός είναι η στέγη και ο χρόνος το μέτρο;
+` },
+    "Anfiteatro": { mensagem: `Lokaður inni í veggjum, en án fangelsis,<br>
+Ég afhjúpa heima handan sjónar.<br>
+Ég er hátt, þó ég fljúgi ekki,<br>
+Þar sem fjarlægðin leyfir að dáðst að.<br>
+Ég er hvorki himinn, jörð né sjóndeildarhringur,<br>
+En ég get varðveitt augnaráð tímans.<br>
+Hver er ég, skjól víðáttu,<br>
+Sem sýnir heiminn án þess að yfirgefa jörðina?
+` },
+    "Mirante fechado": { mensagem: `Каде времето тече во два такта,<br>
+и нозете танцуваат без звук.<br>
+Полето не е на кралот, но некој го вика трон.<br>
+Тлото е зелено, но не расте цвет,<br>
+а она што најмногу расте тука... е врева.<br>
+Ако го бараш следниот чекор од мисијата,<br>
+оди таму каде што топката е повеќе од страст.<br>
+` },
+    "Quadra de futebol society":  { mensagem: "Entre risos que ecoam como sinos de vento, <br>E onde o chão guarda marcas de aventuras em movimento, <br>Há um reino sem tronos, mas com escaladas, <br>E soldados de areia em guerras encantadas. <br>Os adultos passam, mas poucos entendem, <br>Que ali o tempo para e os sonhos se estendem. <br>Se procuras o próximo passo com alegria e cor, <br>Siga onde balanços embalam o riso e o amor." },
   },
   Cinza: {
     "ABC123": { mensagem: "1" },
