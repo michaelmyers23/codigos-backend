@@ -62,12 +62,12 @@ Si omnia haec legendo scire vis,<br>
 Quae vicinitas haec tabula vocare vis?
 `
     },
-    "História de Olarias": { mensagem: `ⵓⵔ ⴷ-ⵖⵉⵔⵉ ⴰⵙⴻⴳⴳⴰⵙ، ⵎⴰⴽⴰ ⴰⴷ ⴰⵙ-ⵢⴻⵙⵏⵓⴼ، <br>
+    "História de Olarias": { mensagem: "ⵓⵔ ⴷ-ⵖⵉⵔⵉ ⴰⵙⴻⴳⴳⴰⵙ، ⵎⴰⴽⴰ ⴰⴷ ⴰⵙ-ⵢⴻⵙⵏⵓⴼ، <br>
 ⴰⵢⴻⵏ ⵏ ⴰⵎⴰⵏ ⵉ-ⵢⴻⵔⵔⴰⵏ ⴷ-ⴰⵡⴰⵍ ⴷⴻⴳ ⵓⵙⴰⴳⵡⴻⵏ.<br>
 ⴷ ⴷⵉⴷ-ⴰⵡⵉⵏ، ⴷⴷⵓⵏⵉⵜ ⵢⴻⵜⵜⵡⴰⵙⴻⴼ، <br>
 ⴰⵙⵉⵔⴻⵎ ⴷ ⴰⵎⴻⵏⵏⵓ، ⵙ-ⵡⴰⵍ ⴰⴷ ⵢⴻⵡⵡⵉ.<br>
 ⵏⴻⵖ ⴰⵡⵔⴰⵖ ⴷ ⴰⴼⵓⵙ، ⵜⵉⴳⴷⴰⵡⵉⵏ ⴷ ⵉⴳⴻⵎ، <br>
-ⴰⵏⵡⴰ ⴷ-ⵏⴻⵖ ⵉⵙⵙⵏⴻⴹⴽⴻⵍ ⴰⵙⴻⵎⵎⴰⵎ ⴰⴽⴻⴷ ⵍⵃⵓⴱ؟ ` },
+ⴰⵏⵡⴰ ⴷ-ⵏⴻⵖ ⵉⵙⵙⵏⴻⴹⴽⴻⵍ ⴰⵙⴻⵎⵎⴰⵎ ⴰⴽⴻⴷ ⵍⵃⵓⴱ؟" },
     "Quadro do lago": { mensagem: "ฉันแบกท้องฟ้าไว้ในสายของฉัน และสันติภาพไว้ในคู่ของฉัน  <br> ฉันคือความเงียบสงัดที่โบยบินและเป็นเครื่องเตือนใจถึงแท่นบูชา <br> ฉันแบกดวงดาวจากยุคจักรวรรดิ <br> ท่ามกลางทุ่งนาและเมล็ดพืช สัญญาณของฉันเป็นจริง <br> ปราศจากคำพูด ฉันบอกเล่าตำนาน ความจงรักภักดี และราชวงศ์ <br> ฉันคือใคร ผู้ซึ่งสั่นสะท้านด้วยพลังแห่งธรรมชาติ? " },
     "Bandeira": { mensagem: "ຈາກກ້າງສູງຂ້າມເບິ່ງໂລກໂດຍບໍ່ຂຍື້ນຕົວ, <br> ເປີດເຫັນຂອບເຂດທີ່ບາງຄົນເຫັນບໍ່ໄດ້.  <br> ຂ້ອຍແມ່ນຈຸດຕິດຕາມສະຫນາມ, ຜູ້ຮັບຜິດຊອບການເບິ່ງເຫັນ, <br> ລະຫວ່າງຟ້າແລະດິນ, ຂ້ອຍເຊີນໃຫ້ຝັນ.  <br> ບໍ່ມີປີກ, ຂ້ອຍບິນ; ບໍ່ມີຂາ, ຂ້ອຍເດີນ, <br> ໃຜຄືຂ້ອຍ ຜູ້ທີ່ສະແດງໃຫ້ເຫັນຄວາມບໍ່ມີຂອບເຂດ ຢ່າງໂດດຫວ່າງ?" },
     "Mirante": { mensagem: `Χωρίς στέγη με σκεπάζω, μα τ’ άστρα με κοιτούν,<br>
@@ -99,18 +99,46 @@ Sem sýnir heiminn án þess að yfirgefa jörðina?
     "Quadra de futebol society":  { mensagem: "Entre risos que ecoam como sinos de vento, <br>E onde o chão guarda marcas de aventuras em movimento, <br>Há um reino sem tronos, mas com escaladas, <br>E soldados de areia em guerras encantadas. <br>Os adultos passam, mas poucos entendem, <br>Que ali o tempo para e os sonhos se estendem. <br>Se procuras o próximo passo com alegria e cor, <br>Siga onde balanços embalam o riso e o amor." },
   },
   Cinza: {
-    "ABC123": { mensagem: "1" },
-    "DEF456": {
-      mensagem: `2<img src="https://gru.ifsp.edu.br/images/phocagallery/galeria2/thumbs/phoca_thumb_l_image03_grd.png" alt="Imagem" style="max-width:100%;">`
-    },
-    "XYZ789": { mensagem: "3" },
-    "pipipi": { mensagem: "4" },
-    "papapa": { mensagem: "5" },
-    "popopo": { mensagem: "6" },
-    "pupupu": { mensagem: "7" },
-    "pepepe": { mensagem: "8" },
-    "cracra": { mensagem: "9" },
-    "sabão": { mensagem: "10" }
+    "Cinza": { mensagem: "ฉันแบกท้องฟ้าไว้ในสายของฉัน และสันติภาพไว้ในคู่ของฉัน  <br> ฉันคือความเงียบสงัดที่โบยบินและเป็นเครื่องเตือนใจถึงแท่นบูชา <br> ฉันแบกดวงดาวจากยุคจักรวรรดิ <br> ท่ามกลางทุ่งนาและเมล็ดพืช สัญญาณของฉันเป็นจริง <br> ปราศจากคำพูด ฉันบอกเล่าตำนาน ความจงรักภักดี และราชวงศ์ <br> ฉันคือใคร ผู้ซึ่งสั่นสะท้านด้วยพลังแห่งธรรมชาติ? " },
+    "Bandeira": { mensagem: `ਮੈਂ ਕੇਂਦਰ ਨਹੀਂ ਹਾਂ, ਪਰ ਮੈਂ ਪ੍ਰਮੁੱਖਤਾ ਦਿੰਦਾ ਹਾਂ। <br>
+ਮੈਂ ਸੁੰਦਰਤਾ ਨੂੰ ਅਪਣਾਉਂਦਾ ਹਾਂ, ਕਦੇ ਵੀ ਹਮਲਾ ਕੀਤੇ ਬਿਨਾਂ। <br>
+ਮੈਂ ਕਿਨਾਰਾ ਹਾਂ, ਮੈਂ ਸੀਮਾ ਹਾਂ, ਪਰ ਜੇਲ੍ਹ ਬਣੇ ਬਿਨਾਂ। <br>
+ਮੈਂ ਕੌਣ ਹਾਂ, ਜੋ ਸ਼ੁੱਧਤਾ ਨਾਲ ਰੂਪ ਰੇਖਾ ਬਣਾਉਂਦਾ ਹਾਂ?  <br>`    },
+    "Moldura de quadro": { mensagem: `Χωρίς στέγη με σκεπάζω, μα τ’ άστρα με κοιτούν,<br>
+Η φωνή μου αντηχεί όπου οι άνεμοι περνούν.<br>
+Είμαι πέτρα, είμαι χορτάρι, είμαι ήχος που απλώνεται,<br>
+Στη μέση του πουθενά, η τέχνη δεν σωπαίνει.<br>
+Χωρίς κουρτίνες ή τοίχους να με περιορίζουν,<br>
+Είμαι σκηνή της ζωής, του γέλιου και της γνώσης.<br>
+Ποιος είμαι εγώ, που σχηματίστηκα στη γη και στον χώρο,<br>
+Όπου ο ουρανός είναι η στέγη και ο χρόνος το μέτρο;
+` },
+    "Anfiteatro": { mensagem: `私は本でも紙の新聞でもありません。 <br>
+しかし、あなたのメッセージを忠実な世界へ届けます。 <br>
+創造力と才能を空に乗せて、 <br>
+私は誰でしょう？あなたのブランドを輝かせる存在です。` },
+    "Placa de publicidade":  { mensagem: ` अहं वनम् नास्मि, किन्तु तत् कथं श्रोतव्यमिति पाठयामि। <br>
+अहं नदी नास्मि, परन्तु ये तस्याः मार्गदर्शनं कर्तुम् इच्छन्ति तेषां मार्गदर्शनं करोमि । <br>
+प्राचीनज्ञानस्य वर्तमानविज्ञानस्य च मध्ये, <br>
+अहं मनुष्यस्य प्राकृतिकजगत् च सेतुः अस्मि। <br>
+यत्र पत्राणि पाठाः भवन्ति, पृथिवी च गुरुः, <br>
+अहं कोऽस्मि, यः श्वः प्रतिघण्टां वपयामि ? ` },
+    "Centro de educação ambiental": { mensagem: "Ni seulement jus, ni seulement cocktail en main,<br>Ici se mêlent fête, rires et refrains.<br>Glace, saveurs, couleurs qui dansent,<br>Qui suis-je, celui qui t’invite à faire une danse?<br>Je suis le lieu où tout se mélange,<br>Entre amis, la joie est un mélange étrange.<br>Quel est mon nom, où la nuit est mixée,<br>Et où l’amusement ne cesse jamais ?" },
+    "Tudo e Misturado": { mensagem: `
+ܠܐ ܐܢܐ ܐܢܫܐ، ܐܠܐ ܐܒܥܝ ܚܘܒܐ،
+ܐܚܙܐ ܒܟܬܒܐ ܚܘܒܐ ܕܝܢܐ ܐܬܪܝܐ.
+ܐܢܐ ܩܛܥܐ ܕܩܘܦܬܐ، ܨܘܪܬܐ ܘܪܘܚܢܘܬܐ،
+ܡܐ ܫܡܝ، ܣܝܡܢܐ ܕܡܕܝܢܬܐ ܘܠܒܐ؟` 
+},
+    "Eu amo Ponta Grossa": { mensagem: `Каде времето тече во два такта,<br>
+и нозете танцуваат без звук.<br>
+Полето не е на кралот, но некој го вика трон.<br>
+Тлото е зелено, но не расте цвет,<br>
+а она што најмногу расте тука... е врева.<br>
+Ако го бараш следниот чекор од мисијата,<br>
+оди таму каде што топката е повеќе од страст.<br>
+` },
+    "Quadra de futebol society": { mensagem: "Entre risos que ecoam como sinos de vento, <br>E onde o chão guarda marcas de aventuras em movimento, <br>Há um reino sem tronos, mas com escaladas, <br>E soldados de areia em guerras encantadas. <br>Os adultos passam, mas poucos entendem, <br>Que ali o tempo para e os sonhos se estendem. <br>Se procuras o próximo passo com alegria e cor, <br>Siga onde balanços embalam o riso e o amor." },
   },
   Amarelo: {
     "ABC123": { mensagem: "1" },
