@@ -387,7 +387,7 @@ Quae vicinitas haec tabula vocare vis?`
 ܐܢܐ ܩܛܥܐ ܕܩܘܦܬܐ، ܨܘܪܬܐ ܘܪܘܚܢܘܬܐ، <br>
 ܡܐ ܫܡܝ، ܣܝܡܢܐ ܕܡܕܝܢܬܐ ܘܠܒܐ؟` },
     "Eu amo Ponta Grossa":  { mensagem: "Ni seulement jus, ni seulement cocktail en main,<br>Ici se mêlent fête, rires et refrains.<br>Glace, saveurs, couleurs qui dansent,<br>Qui suis-je, celui qui t’invite à faire une danse?<br>Je suis le lieu où tout se mélange,<br>Entre amis, la joie est un mélange étrange.<br>Quel est mon nom, où la nuit est mixée,<br>Et où l’amusement ne cesse jamais ?" },
-    "Tudo e misturado": { mensagem: "Entre risos que ecoam como sinos de vento, <br>E onde o chão guarda marcas de aventuras em movimento, <br>Há um reino sem tronos, mas com escaladas, <br>E soldados de areia em guerras encantadas. <br>Os adultos passam, mas poucos entendem, <br>Que ali o tempo para e os sonhos se estendem. <br>Se procuras o próximo passo com alegria e cor, <br>Siga onde balanços embalam o riso e o amor." },
+    "Tudo e Misturado": { mensagem: "Entre risos que ecoam como sinos de vento, <br>E onde o chão guarda marcas de aventuras em movimento, <br>Há um reino sem tronos, mas com escaladas, <br>E soldados de areia em guerras encantadas. <br>Os adultos passam, mas poucos entendem, <br>Que ali o tempo para e os sonhos se estendem. <br>Se procuras o próximo passo com alegria e cor, <br>Siga onde balanços embalam o riso e o amor." },
   },
   Roxo: {
     "Roxo":  { mensagem: `ⵓⵔ ⴷ-ⵖⵉⵔⵉ ⴰⵙⴻⴳⴳⴰⵙ، ⵎⴰⴽⴰ ⴰⴷ ⴰⵙ-ⵢⴻⵙⵏⵓⴼ، <br>
@@ -437,22 +437,54 @@ Sem sýnir heiminn án þess að yfirgefa jörðina?`
     "Quadra de futebol society": { mensagem: "Entre risos que ecoam como sinos de vento, <br>E onde o chão guarda marcas de aventuras em movimento, <br>Há um reino sem tronos, mas com escaladas, <br>E soldados de areia em guerras encantadas. <br>Os adultos passam, mas poucos entendem, <br>Que ali o tempo para e os sonhos se estendem. <br>Se procuras o próximo passo com alegria e cor, <br>Siga onde balanços embalam o riso e o amor." },
   },
   Marrom: {
-    "ABC123": { mensagem: "1" },
-    "DEF456": {
-      mensagem: `2<img src="https://gru.ifsp.edu.br/images/phocagallery/galeria2/thumbs/phoca_thumb_l_image03_grd.png" alt="Imagem" style="max-width:100%;">`
-    },
-    "XYZ789": { mensagem: "3" },
-    "pipipi": { mensagem: "4" },
-    "papapa": { mensagem: "5" },
-    "popopo": { mensagem: "6" },
-    "pupupu": { mensagem: "7" },
-    "pepepe": { mensagem: "8" },
-    "cracra": { mensagem: "9" },
-    "sabão": { mensagem: "10" }
+    "Marrom": { mensagem: `이 표지판에서 물의 힘이 드러나고, <br>
+두 나라가 하나의 거대한 장면으로 연결되지요. <br>
+흐름과 힘에서 태어난 에너지, <br>
+세상을 움직이는 거대한 존재. <br>
+나는 누구일까요? 이 진짜 이야기를 간직한, <br>
+거대한 힘의 발전소를 말해주는 존재는? 
+` },
+    "Itaipu": { mensagem: `
+ܠܐ ܐܢܐ ܐܢܫܐ، ܐܠܐ ܐܒܥܝ ܚܘܒܐ، <br>
+ܐܚܙܐ ܒܟܬܒܐ ܚܘܒܐ ܕܝܢܐ ܐܬܪܝܐ. <br>
+ܐܢܐ ܩܛܥܐ ܕܩܘܦܬܐ، ܨܘܪܬܐ ܘܪܘܚܢܘܬܐ، <br>
+ܡܐ ܫܡܝ، ܣܝܡܢܐ ܕܡܕܝܢܬܐ ܘܠܒܐ؟` },
+    "Eu amo Ponta Grossa": { mensagem: `Χωρίς στέγη με σκεπάζω, μα τ’ άστρα με κοιτούν,<br>
+Η φωνή μου αντηχεί όπου οι άνεμοι περνούν.<br>
+Είμαι πέτρα, είμαι χορτάρι, είμαι ήχος που απλώνεται,<br>
+Στη μέση του πουθενά, η τέχνη δεν σωπαίνει.<br>
+Χωρίς κουρτίνες ή τοίχους να με περιορίζουν,<br>
+Είμαι σκηνή της ζωής, του γέλιου και της γνώσης.<br>
+Ποιος είμαι εγώ, που σχηματίστηκα στη γη και στον χώρο,<br>
+Όπου ο ουρανός είναι η στέγη και ο χρόνος το μέτρο;
+` },
+    "Anfiteatro": { mensagem: "我浩瀚無垠，卻非大海；我金碧輝煌，卻不閃耀。 <br>在我心中，沒有想要停留的足跡。 <br>我接受跳躍、發球、跌倒和榮耀， <br>但我沒有勝利，只有回憶。 <br>沒有牆壁，沒有天花板，任憑風吹拂， <br>我是誰 在遊戲與生活相遇的地方？" },
+    "Quadra de areia": { mensagem: `Lokaður inni í veggjum, en án fangelsis,<br>
+Ég afhjúpa heima handan sjónar.<br>
+Ég er hátt, þó ég fljúgi ekki,<br>
+Þar sem fjarlægðin leyfir að dáðst að.<br>
+Ég er hvorki himinn, jörð né sjóndeildarhringur,<br>
+En ég get varðveitt augnaráð tímans.<br>
+Hver er ég, skjól víðáttu,<br>
+Sem sýnir heiminn án þess að yfirgefa jörðina?`
+},
+    "Mirante fechado": { mensagem: "હું ન કોઈ પડદો પહેરું છું, ન હાથમાં તલવાર, <br> પણ રાષ્ટ્રની વ્યવસ્થા અને સુરક્ષા જાળવું છું. <br> શહેરની આંખોમાં, ચોખ્ખાઈથી નિરીક્ષણ કરું છું, <br> શાંત, મજબૂત, કાર્ય માટે તૈયાર. <br>હું કોઈ પૌરાણિક નાયક કે કથા નો નાયક નથી, <br> પણ મારી વિના, અવ્યવસ્થા તાત્કાલિક થઈ જાવતી. <br>હું કોણ છું, જે રસ્તા અને મેદાનમાં ખડું છું, <br>અહીં રહેતા લોકોની રક્ષા કરું છું?" },
+    "Guarda Municipal": { mensagem: `ၵဝ်ဢမ်ႇၵိူတ်ႇမႃးတီႈပၢင်ႇလၢႆႇသေတႃႉ ၵဝ်ယိပ်းၵမ်ဝႆႉၶူဝ်းၶွင် ဢၼ်မီးၼႂ်းၸိုဝ်ႈၵဝ်။ <br>
+ၵဝ် ဢမ်ႇၸႂ်ႈ ၵႅဝ်ႈ ဢမ်ႇၸႂ်ႈ ၵွၼ်ႈ ၵူၺ်းၵႃႈ ပဵၼ် လႅင်း ဢၼ် ဢိုပ်းယၢၵ်ႈ ၵိၼ် ၼၼ်ႉ ဢေႃႈ။ <br>
+ၼႂ်းၵႄႈပၢင်ႇလၢႆႇၶူဝ်လမ် လႄႈ လူမ်းထၢၼ်ႇႁိၼ်၊ <br>
+ၵဝ်သိမ်းဝႆႉလွင်ႈလပ်ႉလွင်း ၼႂ်းၶဝ်ႈမုၼ်း ဢၼ်တဵမ်ဝႆႉ တင်းၸႂ်ႁၵ်ႉ။ <br>
+သီၵဝ် ႁဵတ်းႁႂ်ႈမီးလွင်ႈလပ်ႉလွင်း ဢၢႆႁွမ်ၵဝ် လႅၼ်ႈႁိူဝ်းယူႇ၊ <br>
+ၸိူဝ်းႁၼ်ၵဝ်ၼၼ်ႉ ဢမ်ႇလိုမ်း- ၶဝ်တိုၼ်းပွၵ်ႈမိူဝ်း ဢႅၼ်ႇၵႃႇ။ <br>
+ၵဝ်ပဵၼ်ၽႂ် ဢၼ်လႅၼ်ႈၼိူဝ်ၽႅၼ်ႇသေ ဢမ်ႇလႅၼ်ႈသေ ဢွင်ႇပေႉ။`},
+    "Hamburgueria Pérola Negra": { mensagem: `ਮੈਂ ਕੇਂਦਰ ਨਹੀਂ ਹਾਂ, ਪਰ ਮੈਂ ਪ੍ਰਮੁੱਖਤਾ ਦਿੰਦਾ ਹਾਂ। <br>
+ਮੈਂ ਸੁੰਦਰਤਾ ਨੂੰ ਅਪਣਾਉਂਦਾ ਹਾਂ, ਕਦੇ ਵੀ ਹਮਲਾ ਕੀਤੇ ਬਿਨਾਂ। <br>
+ਮੈਂ ਕਿਨਾਰਾ ਹਾਂ, ਮੈਂ ਸੀਮਾ ਹਾਂ, ਪਰ ਜੇਲ੍ਹ ਬਣੇ ਬਿਨਾਂ। <br>
+ਮੈਂ ਕੌਣ ਹਾਂ, ਜੋ ਸ਼ੁੱਧਤਾ ਨਾਲ ਰੂਪ ਰੇਖਾ ਬਣਾਉਂਦਾ ਹਾਂ?  <br>`    },
+    "Moldura de quadro": { mensagem: "Entre risos que ecoam como sinos de vento, <br>E onde o chão guarda marcas de aventuras em movimento, <br>Há um reino sem tronos, mas com escaladas, <br>E soldados de areia em guerras encantadas. <br>Os adultos passam, mas poucos entendem, <br>Que ali o tempo para e os sonhos se estendem. <br>Se procuras o próximo passo com alegria e cor, <br>Siga onde balanços embalam o riso e o amor." },
   },
   AzulEscuro: {
-    "ABC123": { mensagem: "1" },
-    "DEF456": {
+    "Azul Escuro": { mensagem: "我浩瀚無垠，卻非大海；我金碧輝煌，卻不閃耀。 <br>在我心中，沒有想要停留的足跡。 <br>我接受跳躍、發球、跌倒和榮耀， <br>但我沒有勝利，只有回憶。 <br>沒有牆壁，沒有天花板，任憑風吹拂， <br>我是誰 在遊戲與生活相遇的地方？" },
+    "Quadra de areia": {
       mensagem: `2<img src="https://gru.ifsp.edu.br/images/phocagallery/galeria2/thumbs/phoca_thumb_l_image03_grd.png" alt="Imagem" style="max-width:100%;">`
     },
     "XYZ789": { mensagem: "3" },
