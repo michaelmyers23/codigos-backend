@@ -315,18 +315,46 @@ Quae vicinitas haec tabula vocare vis?`
     "Tudo e Misturado": { mensagem: "Entre risos que ecoam como sinos de vento, <br>E onde o chão guarda marcas de aventuras em movimento, <br>Há um reino sem tronos, mas com escaladas, <br>E soldados de areia em guerras encantadas. <br>Os adultos passam, mas poucos entendem, <br>Que ali o tempo para e os sonhos se estendem. <br>Se procuras o próximo passo com alegria e cor, <br>Siga onde balanços embalam o riso e o amor." },
   },
   Vermelho: {
-    "ABC123": { mensagem: "1" },
-    "DEF456": {
-      mensagem: `2<img src="https://gru.ifsp.edu.br/images/phocagallery/galeria2/thumbs/phoca_thumb_l_image03_grd.png" alt="Imagem" style="max-width:100%;">`
-    },
-    "XYZ789": { mensagem: "3" },
-    "pipipi": { mensagem: "4" },
-    "papapa": { mensagem: "5" },
-    "popopo": { mensagem: "6" },
-    "pupupu": { mensagem: "7" },
-    "pepepe": { mensagem: "8" },
-    "cracra": { mensagem: "9" },
-    "sabão": { mensagem: "10" }
+    "Vermelho": { mensagem: ` ଏଠାରେ ଚଦର ବା କମ୍ବଳ ସହିତ କୌଣସି ଝୁଲା ନାହିଁ, <br>
+କିନ୍ତୁ ମୃଦୁ ସ୍ୱର ରହିଛି ଏବଂ ଖୋଲା ରକ୍ଷା ଅଛି। <br>
+ଗଛମାନଙ୍କ ଉପରେ, ଘୋସ ମଧ୍ୟରେ ସୁରକ୍ଷିତ, <br>
+ଛୋଟମାନେ ତାଙ୍କର ସ୍ଵପ୍ନ ଉଡାଣ ଆରମ୍ଭ କରନ୍ତି। <br>
+ମୁଁ ସେଠି ଥିବା ଜୀବନର ଆଶ୍ରୟ, ଯେଉଁଥିରେ ଗୀତ ଶିଖାଯାଏ — <br>
+ଏହି ସୂଚନା ପାଟିର ନାମ କଣ? ` },
+    "Berçário das aves": { mensagem: "હું ન કોઈ પડદો પહેરું છું, ન હાથમાં તલવાર, <br> પણ રાષ્ટ્રની વ્યવસ્થા અને સુરક્ષા જાળવું છું. <br> શહેરની આંખોમાં, ચોખ્ખાઈથી નિરીક્ષણ કરું છું, <br> શાંત, મજબૂત, કાર્ય માટે તૈયાર. <br>હું કોઈ પૌરાણિક નાયક કે કથા નો નાયક નથી, <br> પણ મારી વિના, અવ્યવસ્થા તાત્કાલિક થઈ જાવતી. <br>હું કોણ છું, જે રસ્તા અને મેદાનમાં ખડું છું, <br>અહીં રહેતા લોકોની રક્ષા કરું છું?" },
+    "Guarda Municipal": { mensagem: `ਮੈਂ ਕੇਂਦਰ ਨਹੀਂ ਹਾਂ, ਪਰ ਮੈਂ ਪ੍ਰਮੁੱਖਤਾ ਦਿੰਦਾ ਹਾਂ। <br>
+ਮੈਂ ਸੁੰਦਰਤਾ ਨੂੰ ਅਪਣਾਉਂਦਾ ਹਾਂ, ਕਦੇ ਵੀ ਹਮਲਾ ਕੀਤੇ ਬਿਨਾਂ। <br>
+ਮੈਂ ਕਿਨਾਰਾ ਹਾਂ, ਮੈਂ ਸੀਮਾ ਹਾਂ, ਪਰ ਜੇਲ੍ਹ ਬਣੇ ਬਿਨਾਂ। <br>
+ਮੈਂ ਕੌਣ ਹਾਂ, ਜੋ ਸ਼ੁੱਧਤਾ ਨਾਲ ਰੂਪ ਰੇਖਾ ਬਣਾਉਂਦਾ ਹਾਂ?  <br>`    },
+    "Moldura de quadro": { mensagem: `Non sono pane, né torta nel forno,  <br>
+Ma ho una pasta che riscalda e trasforma. <br>
+Con salsa e formaggio, posso incantare, <br>
+A fette o intera, tutti vogliono assaggiare. <br>
+Sono rotonda, calda e piena di sapore, <br>
+Mescolo ingredienti con tanto amore. <br>
+Chi sono, che a tavola sono festa e allegria, <br>
+Celebrando incontri notte e giorno?
+` },
+    "Pizzaria": { mensagem: `ⵓⵔ ⴷ-ⵖⵉⵔⵉ ⴰⵙⴻⴳⴳⴰⵙ، ⵎⴰⴽⴰ ⴰⴷ ⴰⵙ-ⵢⴻⵙⵏⵓⴼ، <br>
+ⴰⵢⴻⵏ ⵏ ⴰⵎⴰⵏ ⵉ-ⵢⴻⵔⵔⴰⵏ ⴷ-ⴰⵡⴰⵍ ⴷⴻⴳ ⵓⵙⴰⴳⵡⴻⵏ.<br>
+ⴷ ⴷⵉⴷ-ⴰⵡⵉⵏ، ⴷⴷⵓⵏⵉⵜ ⵢⴻⵜⵜⵡⴰⵙⴻⴼ، <br>
+ⴰⵙⵉⵔⴻⵎ ⴷ ⴰⵎⴻⵏⵏⵓ، ⵙ-ⵡⴰⵍ ⴰⴷ ⵢⴻⵡⵡⵉ.<br>
+ⵏⴻⵖ ⴰⵡⵔⴰⵖ ⴷ ⴰⴼⵓⵙ، ⵜⵉⴳⴷⴰⵡⵉⵏ ⴷ ⵉⴳⴻⵎ، <br>
+ⴰⵏⵡⴰ ⴷ-ⵏⴻⵖ ⵉⵙⵙⵏⴻⴹⴽⴻⵍ ⴰⵙⴻⵎⵎⴰⵎ ⴰⴽⴻⴷ ⵍⵃⵓⴱ؟ ` },
+    "Quadro do lago": { mensagem: "ฉันแบกท้องฟ้าไว้ในสายของฉัน และสันติภาพไว้ในคู่ของฉัน  <br> ฉันคือความเงียบสงัดที่โบยบินและเป็นเครื่องเตือนใจถึงแท่นบูชา <br> ฉันแบกดวงดาวจากยุคจักรวรรดิ <br> ท่ามกลางทุ่งนาและเมล็ดพืช สัญญาณของฉันเป็นจริง <br> ปราศจากคำพูด ฉันบอกเล่าตำนาน ความจงรักภักดี และราชวงศ์ <br> ฉันคือใคร ผู้ซึ่งสั่นสะท้านด้วยพลังแห่งธรรมชาติ? " },
+    "Bandeira": { mensagem: `ၵဝ်ဢမ်ႇၵိူတ်ႇမႃးတီႈပၢင်ႇလၢႆႇသေတႃႉ ၵဝ်ယိပ်းၵမ်ဝႆႉၶူဝ်းၶွင် ဢၼ်မီးၼႂ်းၸိုဝ်ႈၵဝ်။ <br>
+ၵဝ် ဢမ်ႇၸႂ်ႈ ၵႅဝ်ႈ ဢမ်ႇၸႂ်ႈ ၵွၼ်ႈ ၵူၺ်းၵႃႈ ပဵၼ် လႅင်း ဢၼ် ဢိုပ်းယၢၵ်ႈ ၵိၼ် ၼၼ်ႉ ဢေႃႈ။ <br>
+ၼႂ်းၵႄႈပၢင်ႇလၢႆႇၶူဝ်လမ် လႄႈ လူမ်းထၢၼ်ႇႁိၼ်၊ <br>
+ၵဝ်သိမ်းဝႆႉလွင်ႈလပ်ႉလွင်း ၼႂ်းၶဝ်ႈမုၼ်း ဢၼ်တဵမ်ဝႆႉ တင်းၸႂ်ႁၵ်ႉ။ <br>
+သီၵဝ် ႁဵတ်းႁႂ်ႈမီးလွင်ႈလပ်ႉလွင်း ဢၢႆႁွမ်ၵဝ် လႅၼ်ႈႁိူဝ်းယူႇ၊ <br>
+ၸိူဝ်းႁၼ်ၵဝ်ၼၼ်ႉ ဢမ်ႇလိုမ်း- ၶဝ်တိုၼ်းပွၵ်ႈမိူဝ်း ဢႅၼ်ႇၵႃႇ။ <br>
+ၵဝ်ပဵၼ်ၽႂ် ဢၼ်လႅၼ်ႈၼိူဝ်ၽႅၼ်ႇသေ ဢမ်ႇလႅၼ်ႈသေ ဢွင်ႇပေႉ။`},
+    "Hamburgueria Pérola Negra": { mensagem: `
+ܠܐ ܐܢܐ ܐܢܫܐ، ܐܠܐ ܐܒܥܝ ܚܘܒܐ، <br>
+ܐܚܙܐ ܒܟܬܒܐ ܚܘܒܐ ܕܝܢܐ ܐܬܪܝܐ. <br>
+ܐܢܐ ܩܛܥܐ ܕܩܘܦܬܐ، ܨܘܪܬܐ ܘܪܘܚܢܘܬܐ، <br>
+ܡܐ ܫܡܝ، ܣܝܡܢܐ ܕܡܕܝܢܬܐ ܘܠܒܐ؟` },
+    "Eu amo Ponta Grossa":{ mensagem: "Entre risos que ecoam como sinos de vento, <br>E onde o chão guarda marcas de aventuras em movimento, <br>Há um reino sem tronos, mas com escaladas, <br>E soldados de areia em guerras encantadas. <br>Os adultos passam, mas poucos entendem, <br>Que ali o tempo para e os sonhos se estendem. <br>Se procuras o próximo passo com alegria e cor, <br>Siga onde balanços embalam o riso e o amor." },
   },
   VerdeClaro: {
     "ABC123": { mensagem: "1" },
