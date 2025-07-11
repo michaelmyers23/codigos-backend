@@ -8,7 +8,7 @@ app.use(express.json());
 
 const codigos = {
   Rosa: {
-    "Rosa": { mensagem: "Ni seulement jus, ni seulement cocktail en main,<br>Ici se mêlent fête, rires et refrains.<br>Glace, saveurs, couleurs qui dansent,<br>Qui suis-je, celui qui t’invite à faire une danse?<br>Je suis le lieu où tout se mélange,<br>Entre amis, la joie est un mélange étrange.<br>Quel est mon nom, où la nuit est mixée,<br>Et où l’amusement ne cesse jamais ?" },
+    "08/12/2000": { mensagem: "Ni seulement jus, ni seulement cocktail en main,<br>Ici se mêlent fête, rires et refrains.<br>Glace, saveurs, couleurs qui dansent,<br>Qui suis-je, celui qui t’invite à faire une danse?<br>Je suis le lieu où tout se mélange,<br>Entre amis, la joie est un mélange étrange.<br>Quel est mon nom, où la nuit est mixée,<br>Et où l’amusement ne cesse jamais ?" },
     "Tudo e Misturado": { 
       mensagem: `Χωρίς στέγη με σκεπάζω, μα τ’ άστρα με κοιτούν,<br>
 Η φωνή μου αντηχεί όπου οι άνεμοι περνούν.<br>
@@ -29,7 +29,7 @@ const codigos = {
     "Bandeira": { mensagem: "Entre risos que ecoam como sinos de vento, <br>E onde o chão guarda marcas de aventuras em movimento, <br>Há um reino sem tronos, mas com escaladas, <br>E soldados de areia em guerras encantadas. <br>Os adultos passam, mas poucos entendem, <br>Que ali o tempo para e os sonhos se estendem. <br>Se procuras o próximo passo com alegria e cor, <br>Siga onde balanços embalam o riso e o amor." },
   },
   AzulClaro: {
-    "Azul Claro": { mensagem: "ਮੈਂ ਕੇਂਦਰ ਨਹੀਂ ਹਾਂ, ਪਰ ਮੈਂ ਪ੍ਰਮੁੱਖਤਾ ਦਿੰਦਾ ਹਾਂ। <br>ਮੈਂ ਸੁੰਦਰਤਾ ਨੂੰ ਅਪਣਾਉਂਦਾ ਹਾਂ, ਕਦੇ ਵੀ ਹਮਲਾ ਕੀਤੇ ਬਿਨਾਂ। <br>ਮੈਂ ਕਿਨਾਰਾ ਹਾਂ, ਮੈਂ ਸੀਮਾ ਹਾਂ, ਪਰ ਜੇਲ੍ਹ ਬਣੇ ਬਿਨਾਂ। <br>ਮੈਂ ਕੌਣ ਹਾਂ, ਜੋ ਸ਼ੁੱਧਤਾ ਨਾਲ ਰੂਪ ਰੇਖਾ ਬਣਾਉਂਦਾ ਹਾਂ?" },
+    "08/12/2000": { mensagem: "ਮੈਂ ਕੇਂਦਰ ਨਹੀਂ ਹਾਂ, ਪਰ ਮੈਂ ਪ੍ਰਮੁੱਖਤਾ ਦਿੰਦਾ ਹਾਂ। <br>ਮੈਂ ਸੁੰਦਰਤਾ ਨੂੰ ਅਪਣਾਉਂਦਾ ਹਾਂ, ਕਦੇ ਵੀ ਹਮਲਾ ਕੀਤੇ ਬਿਨਾਂ। <br>ਮੈਂ ਕਿਨਾਰਾ ਹਾਂ, ਮੈਂ ਸੀਮਾ ਹਾਂ, ਪਰ ਜੇਲ੍ਹ ਬਣੇ ਬਿਨਾਂ। <br>ਮੈਂ ਕੌਣ ਹਾਂ, ਜੋ ਸ਼ੁੱਧਤਾ ਨਾਲ ਰੂਪ ਰੇਖਾ ਬਣਾਉਂਦਾ ਹਾਂ?" },
     "Moldura de quadro": { 
       mensagem: `अहं वनम् नास्मि, किन्तु तत् कथं श्रोतव्यमिति पाठयामि। <br>
 अहं नदी नास्मि, परन्तु ये तस्याः मार्गदर्शनं कर्तुम् इच्छन्ति तेषां मार्गदर्शनं करोमि । <br>
@@ -48,7 +48,7 @@ const codigos = {
    "Placa de publicidade": { mensagem: "Entre risos que ecoam como sinos de vento, <br>E onde o chão guarda marcas de aventuras em movimento, <br>Há um reino sem tronos, mas com escaladas, <br>E soldados de areia em guerras encantadas. <br>Os adultos passam, mas poucos entendem, <br>Que ali o tempo para e os sonhos se estendem. <br>Se procuras o próximo passo com alegria e cor, <br>Siga onde balanços embalam o riso e o amor." },
   },
   Laranja: {
-    "Laranja": { mensagem: "હું ન કોઈ પડદો પહેરું છું, ન હાથમાં તલવાર, <br> પણ રાષ્ટ્રની વ્યવસ્થા અને સુરક્ષા જાળવું છું. <br> શહેરની આંખોમાં, ચોખ્ખાઈથી નિરીક્ષણ કરું છું, <br> શાંત, મજબૂત, કાર્ય માટે તૈયાર. <br>હું કોઈ પૌરાણિક નાયક કે કથા નો નાયક નથી, <br> પણ મારી વિના, અવ્યવસ્થા તાત્કાલિક થઈ જાવતી. <br>હું કોણ છું, જે રસ્તા અને મેદાનમાં ખડું છું, <br>અહીં રહેતા લોકોની રક્ષા કરું છું?" },
+    "08/12/2000": { mensagem: "હું ન કોઈ પડદો પહેરું છું, ન હાથમાં તલવાર, <br> પણ રાષ્ટ્રની વ્યવસ્થા અને સુરક્ષા જાળવું છું. <br> શહેરની આંખોમાં, ચોખ્ખાઈથી નિરીક્ષણ કરું છું, <br> શાંત, મજબૂત, કાર્ય માટે તૈયાર. <br>હું કોઈ પૌરાણિક નાયક કે કથા નો નાયક નથી, <br> પણ મારી વિના, અવ્યવસ્થા તાત્કાલિક થઈ જાવતી. <br>હું કોણ છું, જે રસ્તા અને મેદાનમાં ખડું છું, <br>અહીં રહેતા લોકોની રક્ષા કરું છું?" },
     "Guarda Municipal": {
       mensagem: `In hac tabula quae hic stat ad loquendum,<br>
 Arcanas fabulas invenies legendum.<br>
@@ -99,7 +99,7 @@ Sem sýnir heiminn án þess að yfirgefa jörðina?
     "Quadra de futebol society":  { mensagem: "Entre risos que ecoam como sinos de vento, <br>E onde o chão guarda marcas de aventuras em movimento, <br>Há um reino sem tronos, mas com escaladas, <br>E soldados de areia em guerras encantadas. <br>Os adultos passam, mas poucos entendem, <br>Que ali o tempo para e os sonhos se estendem. <br>Se procuras o próximo passo com alegria e cor, <br>Siga onde balanços embalam o riso e o amor." },
   },
   Cinza: {
-    "Cinza": { mensagem: "ฉันแบกท้องฟ้าไว้ในสายของฉัน และสันติภาพไว้ในคู่ของฉัน  <br> ฉันคือความเงียบสงัดที่โบยบินและเป็นเครื่องเตือนใจถึงแท่นบูชา <br> ฉันแบกดวงดาวจากยุคจักรวรรดิ <br> ท่ามกลางทุ่งนาและเมล็ดพืช สัญญาณของฉันเป็นจริง <br> ปราศจากคำพูด ฉันบอกเล่าตำนาน ความจงรักภักดี และราชวงศ์ <br> ฉันคือใคร ผู้ซึ่งสั่นสะท้านด้วยพลังแห่งธรรมชาติ? " },
+    "08/12/2000": { mensagem: "ฉันแบกท้องฟ้าไว้ในสายของฉัน และสันติภาพไว้ในคู่ของฉัน  <br> ฉันคือความเงียบสงัดที่โบยบินและเป็นเครื่องเตือนใจถึงแท่นบูชา <br> ฉันแบกดวงดาวจากยุคจักรวรรดิ <br> ท่ามกลางทุ่งนาและเมล็ดพืช สัญญาณของฉันเป็นจริง <br> ปราศจากคำพูด ฉันบอกเล่าตำนาน ความจงรักภักดี และราชวงศ์ <br> ฉันคือใคร ผู้ซึ่งสั่นสะท้านด้วยพลังแห่งธรรมชาติ? " },
     "Bandeira": { mensagem: `ਮੈਂ ਕੇਂਦਰ ਨਹੀਂ ਹਾਂ, ਪਰ ਮੈਂ ਪ੍ਰਮੁੱਖਤਾ ਦਿੰਦਾ ਹਾਂ। <br>
 ਮੈਂ ਸੁੰਦਰਤਾ ਨੂੰ ਅਪਣਾਉਂਦਾ ਹਾਂ, ਕਦੇ ਵੀ ਹਮਲਾ ਕੀਤੇ ਬਿਨਾਂ। <br>
 ਮੈਂ ਕਿਨਾਰਾ ਹਾਂ, ਮੈਂ ਸੀਮਾ ਹਾਂ, ਪਰ ਜੇਲ੍ਹ ਬਣੇ ਬਿਨਾਂ। <br>
@@ -141,7 +141,7 @@ Sem sýnir heiminn án þess að yfirgefa jörðina?
     "Quadra de futebol society": { mensagem: "Entre risos que ecoam como sinos de vento, <br>E onde o chão guarda marcas de aventuras em movimento, <br>Há um reino sem tronos, mas com escaladas, <br>E soldados de areia em guerras encantadas. <br>Os adultos passam, mas poucos entendem, <br>Que ali o tempo para e os sonhos se estendem. <br>Se procuras o próximo passo com alegria e cor, <br>Siga onde balanços embalam o riso e o amor." },
   },
   Amarelo: {
-    "Amarelo":{ mensagem: "હું ન કોઈ પડદો પહેરું છું, ન હાથમાં તલવાર, <br> પણ રાષ્ટ્રની વ્યવસ્થા અને સુરક્ષા જાળવું છું. <br> શહેરની આંખોમાં, ચોખ્ખાઈથી નિરીક્ષણ કરું છું, <br> શાંત, મજબૂત, કાર્ય માટે તૈયાર. <br>હું કોઈ પૌરાણિક નાયક કે કથા નો નાયક નથી, <br> પણ મારી વિના, અવ્યવસ્થા તાત્કાલિક થઈ જાવતી. <br>હું કોણ છું, જે રસ્તા અને મેદાનમાં ખડું છું, <br>અહીં રહેતા લોકોની રક્ષા કરું છું?" },
+    "08/12/2000":{ mensagem: "હું ન કોઈ પડદો પહેરું છું, ન હાથમાં તલવાર, <br> પણ રાષ્ટ્રની વ્યવસ્થા અને સુરક્ષા જાળવું છું. <br> શહેરની આંખોમાં, ચોખ્ખાઈથી નિરીક્ષણ કરું છું, <br> શાંત, મજબૂત, કાર્ય માટે તૈયાર. <br>હું કોઈ પૌરાણિક નાયક કે કથા નો નાયક નથી, <br> પણ મારી વિના, અવ્યવસ્થા તાત્કાલિક થઈ જાવતી. <br>હું કોણ છું, જે રસ્તા અને મેદાનમાં ખડું છું, <br>અહીં રહેતા લોકોની રક્ષા કરું છું?" },
     "Guarda Municipal" :{ mensagem: `
 ܠܐ ܐܢܐ ܐܢܫܐ، ܐܠܐ ܐܒܥܝ ܚܘܒܐ،
 ܐܚܙܐ ܒܟܬܒܐ ܚܘܒܐ ܕܝܢܐ ܐܬܪܝܐ.
@@ -187,7 +187,7 @@ Quae vicinitas haec tabula vocare vis?`
     "Quadra de futebol society":  { mensagem: "Entre risos que ecoam como sinos de vento, <br>E onde o chão guarda marcas de aventuras em movimento, <br>Há um reino sem tronos, mas com escaladas, <br>E soldados de areia em guerras encantadas. <br>Os adultos passam, mas poucos entendem, <br>Que ali o tempo para e os sonhos se estendem. <br>Se procuras o próximo passo com alegria e cor, <br>Siga onde balanços embalam o riso e o amor." },
   },
   VerdeEscuro: {
-    "Verde Escuro": { mensagem: `
+    "08/12/2000": { mensagem: `
 ܠܐ ܐܢܐ ܐܢܫܐ، ܐܠܐ ܐܒܥܝ ܚܘܒܐ، <br>
 ܐܚܙܐ ܒܟܬܒܐ ܚܘܒܐ ܕܝܢܐ ܐܬܪܝܐ. <br>
 ܐܢܐ ܩܛܥܐ ܕܩܘܦܬܐ، ܨܘܪܬܐ ܘܪܘܚܢܘܬܐ، <br>
@@ -229,7 +229,7 @@ Quae vicinitas haec tabula vocare vis?` },
     "Mão": { mensagem: "Entre risos que ecoam como sinos de vento, <br>E onde o chão guarda marcas de aventuras em movimento, <br>Há um reino sem tronos, mas com escaladas, <br>E soldados de areia em guerras encantadas. <br>Os adultos passam, mas poucos entendem, <br>Que ali o tempo para e os sonhos se estendem. <br>Se procuras o próximo passo com alegria e cor, <br>Siga onde balanços embalam o riso e o amor." },
   },
   Branco: {
-    "Branco": {  mensagem: `In hac tabula quae hic stat ad loquendum,<br>
+    "08/12/2000": {  mensagem: `In hac tabula quae hic stat ad loquendum,<br>
 Arcanas fabulas invenies legendum.<br>
 Vicinitas est quae lutum sibi propositum fecit,<br>
 Terram in artem et passionem vertit.<br>
@@ -274,7 +274,7 @@ Sem sýnir heiminn án þess að yfirgefa jörðina?`
     "Berçário das aves": { mensagem: "Entre risos que ecoam como sinos de vento, <br>E onde o chão guarda marcas de aventuras em movimento, <br>Há um reino sem tronos, mas com escaladas, <br>E soldados de areia em guerras encantadas. <br>Os adultos passam, mas poucos entendem, <br>Que ali o tempo para e os sonhos se estendem. <br>Se procuras o próximo passo com alegria e cor, <br>Siga onde balanços embalam o riso e o amor." },
   },
   Preto: {
-    "Preto":{ mensagem: `私は本でも紙の新聞でもありません。 <br>
+    "08/12/2000":{ mensagem: `私は本でも紙の新聞でもありません。 <br>
 しかし、あなたのメッセージを忠実な世界へ届けます。 <br>
 創造力と才能を空に乗せて、 <br>
 私は誰でしょう？あなたのブランドを輝かせる存在です。` },
@@ -315,7 +315,7 @@ Quae vicinitas haec tabula vocare vis?`
     "Tudo e Misturado": { mensagem: "Entre risos que ecoam como sinos de vento, <br>E onde o chão guarda marcas de aventuras em movimento, <br>Há um reino sem tronos, mas com escaladas, <br>E soldados de areia em guerras encantadas. <br>Os adultos passam, mas poucos entendem, <br>Que ali o tempo para e os sonhos se estendem. <br>Se procuras o próximo passo com alegria e cor, <br>Siga onde balanços embalam o riso e o amor." },
   },
   Vermelho: {
-    "Vermelho": { mensagem: ` ଏଠାରେ ଚଦର ବା କମ୍ବଳ ସହିତ କୌଣସି ଝୁଲା ନାହିଁ, <br>
+    "08/12/2000": { mensagem: ` ଏଠାରେ ଚଦର ବା କମ୍ବଳ ସହିତ କୌଣସି ଝୁଲା ନାହିଁ, <br>
 କିନ୍ତୁ ମୃଦୁ ସ୍ୱର ରହିଛି ଏବଂ ଖୋଲା ରକ୍ଷା ଅଛି। <br>
 ଗଛମାନଙ୍କ ଉପରେ, ଘୋସ ମଧ୍ୟରେ ସୁରକ୍ଷିତ, <br>
 ଛୋଟମାନେ ତାଙ୍କର ସ୍ଵପ୍ନ ଉଡାଣ ଆରମ୍ଭ କରନ୍ତି। <br>
@@ -357,7 +357,7 @@ Celebrando incontri notte e giorno?
     "Eu amo Ponta Grossa": { mensagem: "Entre risos que ecoam como sinos de vento, <br>E onde o chão guarda marcas de aventuras em movimento, <br>Há um reino sem tronos, mas com escaladas, <br>E soldados de areia em guerras encantadas. <br>Os adultos passam, mas poucos entendem, <br>Que ali o tempo para e os sonhos se estendem. <br>Se procuras o próximo passo com alegria e cor, <br>Siga onde balanços embalam o riso e o amor." },
   },
   VerdeClaro: {
-    "Verde Claro": {  mensagem: `In hac tabula quae hic stat ad loquendum,<br>
+    "08/12/2000": {  mensagem: `In hac tabula quae hic stat ad loquendum,<br>
 Arcanas fabulas invenies legendum.<br>
 Vicinitas est quae lutum sibi propositum fecit,<br>
 Terram in artem et passionem vertit.<br>
@@ -390,7 +390,7 @@ Quae vicinitas haec tabula vocare vis?`
     "Tudo e Misturado": { mensagem: "Entre risos que ecoam como sinos de vento, <br>E onde o chão guarda marcas de aventuras em movimento, <br>Há um reino sem tronos, mas com escaladas, <br>E soldados de areia em guerras encantadas. <br>Os adultos passam, mas poucos entendem, <br>Que ali o tempo para e os sonhos se estendem. <br>Se procuras o próximo passo com alegria e cor, <br>Siga onde balanços embalam o riso e o amor." },
   },
   Roxo: {
-    "Roxo":  { mensagem: `ⵓⵔ ⴷ-ⵖⵉⵔⵉ ⴰⵙⴻⴳⴳⴰⵙ، ⵎⴰⴽⴰ ⴰⴷ ⴰⵙ-ⵢⴻⵙⵏⵓⴼ، <br>
+    "08/12/2000":  { mensagem: `ⵓⵔ ⴷ-ⵖⵉⵔⵉ ⴰⵙⴻⴳⴳⴰⵙ، ⵎⴰⴽⴰ ⴰⴷ ⴰⵙ-ⵢⴻⵙⵏⵓⴼ، <br>
 ⴰⵢⴻⵏ ⵏ ⴰⵎⴰⵏ ⵉ-ⵢⴻⵔⵔⴰⵏ ⴷ-ⴰⵡⴰⵍ ⴷⴻⴳ ⵓⵙⴰⴳⵡⴻⵏ.<br>
 ⴷ ⴷⵉⴷ-ⴰⵡⵉⵏ، ⴷⴷⵓⵏⵉⵜ ⵢⴻⵜⵜⵡⴰⵙⴻⴼ، <br>
 ⴰⵙⵉⵔⴻⵎ ⴷ ⴰⵎⴻⵏⵏⵓ، ⵙ-ⵡⴰⵍ ⴰⴷ ⵢⴻⵡⵡⵉ.<br>
@@ -408,7 +408,7 @@ Quae vicinitas haec tabula vocare vis?`
 לך למקום שבו מנצחים נקודה אחר נקודה... ולא באינסטינקט.
 `   },
     "Quadra de tênis":  { mensagem: "Ni seulement jus, ni seulement cocktail en main,<br>Ici se mêlent fête, rires et refrains.<br>Glace, saveurs, couleurs qui dansent,<br>Qui suis-je, celui qui t’invite à faire une danse?<br>Je suis le lieu où tout se mélange,<br>Entre amis, la joie est un mélange étrange.<br>Quel est mon nom, où la nuit est mixée,<br>Et où l’amusement ne cesse jamais ?" },
-    "Tudo e misturado": { mensagem: `이 표지판에서 물의 힘이 드러나고, <br>
+    "Tudo e Misturado": { mensagem: `이 표지판에서 물의 힘이 드러나고, <br>
 두 나라가 하나의 거대한 장면으로 연결되지요. <br>
 흐름과 힘에서 태어난 에너지, <br>
 세상을 움직이는 거대한 존재. <br>
@@ -437,7 +437,7 @@ Sem sýnir heiminn án þess að yfirgefa jörðina?`
     "Quadra de futebol society": { mensagem: "Entre risos que ecoam como sinos de vento, <br>E onde o chão guarda marcas de aventuras em movimento, <br>Há um reino sem tronos, mas com escaladas, <br>E soldados de areia em guerras encantadas. <br>Os adultos passam, mas poucos entendem, <br>Que ali o tempo para e os sonhos se estendem. <br>Se procuras o próximo passo com alegria e cor, <br>Siga onde balanços embalam o riso e o amor." },
   },
   Marrom: {
-    "Marrom": { mensagem: `이 표지판에서 물의 힘이 드러나고, <br>
+    "08/12/2000": { mensagem: `이 표지판에서 물의 힘이 드러나고, <br>
 두 나라가 하나의 거대한 장면으로 연결되지요. <br>
 흐름과 힘에서 태어난 에너지, <br>
 세상을 움직이는 거대한 존재. <br>
@@ -483,7 +483,7 @@ Sem sýnir heiminn án þess að yfirgefa jörðina?`
     "Moldura de quadro": { mensagem: "Entre risos que ecoam como sinos de vento, <br>E onde o chão guarda marcas de aventuras em movimento, <br>Há um reino sem tronos, mas com escaladas, <br>E soldados de areia em guerras encantadas. <br>Os adultos passam, mas poucos entendem, <br>Que ali o tempo para e os sonhos se estendem. <br>Se procuras o próximo passo com alegria e cor, <br>Siga onde balanços embalam o riso e o amor." },
   },
   AzulEscuro: {
-    "Azul Escuro": { mensagem: "我浩瀚無垠，卻非大海；我金碧輝煌，卻不閃耀。 <br>在我心中，沒有想要停留的足跡。 <br>我接受跳躍、發球、跌倒和榮耀， <br>但我沒有勝利，只有回憶。 <br>沒有牆壁，沒有天花板，任憑風吹拂， <br>我是誰 在遊戲與生活相遇的地方？" },
+    "08/12/2000": { mensagem: "我浩瀚無垠，卻非大海；我金碧輝煌，卻不閃耀。 <br>在我心中，沒有想要停留的足跡。 <br>我接受跳躍、發球、跌倒和榮耀， <br>但我沒有勝利，只有回憶。 <br>沒有牆壁，沒有天花板，任憑風吹拂， <br>我是誰 在遊戲與生活相遇的地方？" },
     "Quadra de areia":{  mensagem: `In hac tabula quae hic stat ad loquendum,<br>
 Arcanas fabulas invenies legendum.<br>
 Vicinitas est quae lutum sibi propositum fecit,<br>
